@@ -1,5 +1,3 @@
-Netfinder
-
 # Netfinder
 
 Netfinder is a simple soccer-themed web app designed for soccer enthusiasts to track live scores, match updates, and player statistics. It features a user-friendly interface and focuses on delivering real-time match information in an engaging, soccer-inspired design.
