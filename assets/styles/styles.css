@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: Fugaz One;
+    src: url("../fonts/Fugaz\ One.ttf");
+}
+
+body{
+    font-family: "Fugaz One", sans-serif;
+    background-color: black;
+    color: #fff;
+    line-height: 1.5;
+}
+
+.logo {
+    width: 120px;
+    height: 80px;
+    margin: 0 auto;
+    display: block;
+}
+
+.navbar{
+    background-color: black;
+    padding: 20px 0;
+}
